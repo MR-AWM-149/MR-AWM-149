@@ -1,4 +1,5 @@
 <div align="center">
+
 # ☠️ MR-AWM-149 ☠️
 
 ### ⚡ Cyber Tool Developer ⚡
@@ -29,14 +30,17 @@ class MR_AWM_149:
             "Python",
             "Bash",
             "Automation",
-            "Tool Development"
+            "Tool Development",
+            "Web Scraping",
+            "Cyber Tools"
         ]
 
         self.system = "Linux / Termux"
         self.status = "Online"
+        self.goal = "Build Powerful Automation Tools"
 
     def message(self):
-        return "Code Faster • Work Smarter"
+        return "Code Faster • Work Smarter • Stay Anonymous"
 
 dev = MR_AWM_149()
 print(dev.message())
