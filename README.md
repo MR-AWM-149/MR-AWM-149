@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MR-AWM-149/MR-AWM-149/main/logo.png" width="220"/>
+<img src="https://raw.githubusercontent.com/MR-AWM-149/OPEN-SCRIPT/main/file_0000000078047208a649ec3eecee54f1.png"
+width="220"
+style="border-radius:20px; box-shadow:0px 0px 20px red;"/>
 
 # ☠️ MR-AWM-149 ☠️
 
@@ -23,7 +25,7 @@
 
 # 🧬 Developer Profile
 
-```python id="u3x8lk"
+```python
 class MR_AWM_149:
 
     def __init__(self):
